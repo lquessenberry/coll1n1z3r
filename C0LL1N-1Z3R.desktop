@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=C0LL1N-1Z3R
+Comment=Kid Power Edition - Epic Creative + Gaming + Pet Command Center
+Exec=bash -c "cd '%k' && ./launch.sh"
+Icon=utilities-terminal
+Terminal=true
+Categories=Utility;System;
+Path=/home/lquessenberry/Custom Apps/coll1n1z3r
+StartupNotify=true
